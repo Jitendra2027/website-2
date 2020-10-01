@@ -14,13 +14,13 @@ The website is built on [GatsbyJS](https://www.gatsbyjs.org/). If you are not fa
 
 ### Install
 
-First, you'll need the Gatsby command line interface installed globally:
+First, you'll need the Gatsby command line interface installed globally by executing following command:
 
 ```shell
 npm install -g gatsby-cli
 ```
 
-Then, install all dependencies by running:
+Then, install all dependencies by running command:
 
 ```shell
 npm install
